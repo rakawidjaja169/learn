@@ -22,6 +22,7 @@ int main() {
         }
     }
 
+//nyoba
     for(int i=0;i<ans;i++)
     {
         cin>>d>>e;
